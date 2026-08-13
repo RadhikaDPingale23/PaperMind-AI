@@ -81,7 +81,9 @@ AI Analyzes the Research Paper
   ↓
 User can Ask Questions
   ↓
-AI Provides Context-Based Answers ```
+AI Provides Context-Based Answers
+
+```
 
 
 
