@@ -85,3 +85,19 @@ AI Provides Context-Based Answers
 
 
 
+## 🌟 Project Highlights
+
+- Upload and analyze academic research papers using AI.
+- Extracts key information such as Summary, Research Objectives, Methodology, Findings, and Insights.
+- Enables context-aware question answering based on the uploaded document.
+- Automatically generates study and revision questions for better understanding.
+- Simplifies complex research papers into easy-to-read insights.
+- Built with a clean and interactive Streamlit interface powered by Google Gemini.
+
+## 👩‍💻 Author
+
+**Radhika Pingale**
+
+Passionate about AI, Machine Learning, and Python development. This project was created to explore LLM-powered research paper analysis and intelligent document understanding using Streamlit and Google Gemini.
+
+
