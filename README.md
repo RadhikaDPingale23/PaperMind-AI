@@ -56,36 +56,20 @@ PaperMind AI uses **Google Gemini**, a Large Language Model (LLM), to understand
 
 ## 🔄 How the Project Works
 
-PaperMind AI follows a simple workflow to analyze research papers:
-
-```text
-User
-  ↓
-Upload Research Paper (PDF)
-  ↓
-Extract Text from PDF
-  ↓
-Send Paper Content to Google Gemini
-  ↓
-AI Analyzes the Research Paper
-  ↓
-┌───────────────────────────────┐
-│ Summary                       │
-│ Research Objective            │
-│ Methodology                   │
-│ Key Findings                  │
-│ Limitations                   │
-│ Key Insights                  │
-│ Important Questions           │
-└───────────────────────────────┘
-  ↓
-User can Ask Questions
-  ↓
-AI Provides Context-Based Answers
-
-```
-
-
+1. User uploads a research paper (PDF).
+2. The application extracts text from the PDF.
+3. The extracted content is sent to Google Gemini.
+4. AI analyzes the research paper and extracts:
+   - Summary
+   - Research Objectives
+   - Methodology
+   - Key Findings
+   - Limitations
+   - Key Insights
+   - Important Questions
+5. Users can ask questions about the document.
+6. AI provides context-aware answers based on the paper.
+   
 
 ## 🌟 Project Highlights
 
