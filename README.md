@@ -82,3 +82,17 @@ AI Analyzes the Research Paper
 User can Ask Questions
   ↓
 AI Provides Context-Based Answers
+
+## 🌟 Project Highlights
+
+- Uses an LLM to analyze academic research papers.
+- Converts complex research content into structured and easy-to-understand information.
+- Provides context-based question answering from the uploaded document.
+- Generates study and revision questions automatically.
+- Provides a simple and interactive interface using Streamlit.
+
+## 👩‍💻 Author
+
+**Radhika Pingale**
+
+Built as a personal project to explore LLM-powered document analysis using Python, Streamlit, and Google Gemini.
